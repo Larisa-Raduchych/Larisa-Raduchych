@@ -35,7 +35,7 @@ A team project built with Next.js and Node.js. Working on frontend and backend f
 
 ### 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn profile]([https://linkedin.com/larisa-raduchych-53611742b/])
+- LinkedIn: [Your LinkedIn profile](https://linkedin.com/larisa-raduchych-53611742b/)
 - Email: [Your email address](mailto:larisaraduchych@gmail.com)
 
 ### 🌱 Currently Learning
