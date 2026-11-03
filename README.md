@@ -31,12 +31,12 @@ A team project built with Next.js and Node.js. Working on frontend and backend f
 ### 🗣️ Languages
 
 - Ukrainian — Native
-- English — [Your level]
+- English — Intermediate
 
 ### 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn profile](https://linkedin.com/)
-- Email: [Your email address](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn profile]([https://linkedin.com/larisa-raduchych-53611742b/])
+- Email: [Your email address](mailto:larisaraduchych@gmail.com)
 
 ### 🌱 Currently Learning
 
